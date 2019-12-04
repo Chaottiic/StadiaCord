@@ -38,3 +38,7 @@ python3 main.py setup
 
 # Windows
 >Coming Soon.
+
+[GitHub Release]: https://github.com/Chaottiic/StadiaCord/releases
+[GitHub Download Count]: https://github.com/Chaottiic/StadiaCord/releases
+[GitHub Issues Open]: https://github.com/Chaottiic/StadiaCord/issues
