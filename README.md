@@ -1,7 +1,8 @@
 # Stadiacord
 [![GitHub Release](https://img.shields.io/github/v/release/Chaottiic/Stadiacord.svg?include_prereleases)]() [![GitHub Download Count](https://img.shields.io/github/downloads/Chaottiic/Stadiacord/total.svg)]() [![GitHub Issues Open](https://img.shields.io/github/issues/Chaottiic/Stadiacord/total.svg)]()
-| NOTICE: WE ARE NOT DONE WITH THE WINDOWS CLIENT |
-| --- |
+
+> NOTICE: WE ARE NOT DONE WITH THE WINDOWS CLIENT 
+
 This integration sets a Discord Rich Presence of your current Stadia Game
 
 # MacOS
