@@ -67,7 +67,7 @@ while True:
         rpc_obj.set_activity(activity)
         if api.getSetting("DEBUG"):
                 print('[LOGS] Successfully updated')
-        time.sleep(12.5)
+        time.sleep(25)
     except Exception as e:
         if api.getSetting("DEBUG"):
                 print(f'[LOGS] {e}')
