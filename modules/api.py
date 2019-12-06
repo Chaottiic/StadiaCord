@@ -4,10 +4,12 @@ from six.moves.urllib.request import urlopen, Request
 
 
 def getSetting(setting):
-    print(os.path.dirname(__file__))
-    with open(os.path.dirname(__file__) + '/../../settings.json') as file:
-        data = json.load(file)
-        return data['settings'][setting]
+    try:
+        with open(os.path.dirname(__file__) + '/../../settings.json') as file:
+            data = json.load(file)
+            return data['settings'][setting]
+    except FileNotFoundError:
+        return None
 
 def WinClient():
     pass
