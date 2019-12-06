@@ -60,7 +60,7 @@ while True:
                     "start": start_time
                 },
                 "assets": {
-                    "large_text": api.getSetting("WEBSITTE"),
+                    "large_text": api.getSetting("WEBSITE"),
                     "large_image": icon
                 }
             }
