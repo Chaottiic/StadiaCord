@@ -22,6 +22,7 @@ This integration sets a Discord Rich Presence of your current Stadia Game
 - Run main.exec
 - "Terminal" wants access to control "Google Chrome" -> Ok
 - Go to Discord -> Settings -> Game Activity -> Enabled
+> If this does not work, please go below and compile it. Some modules may be missing and need to be compiled freshly.
 
 ## Compiling
 > Not required unless you want to edit source code.
@@ -30,7 +31,7 @@ This integration sets a Discord Rich Presence of your current Stadia Game
 virtualenv venv
 source venv/bin/activate
 pip3 install -r requirements-mac.txt
-python3 main.py setup
+python3 setup.py build
 ```
 - Go into build/ and run main
 - "Terminal" wants access to control "Google Chrome" -> Ok
