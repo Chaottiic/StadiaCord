@@ -13,7 +13,7 @@ def get_platform(platform=sys.platform):
         
 print('//--------------------------------------------------------------------//')
 print('//                                                                    //')
-print('//       Created by Brooke (Brooke#1001)                              //')
+print('//       Created by Brooke (Chaottiic#001)                            //')
 print('//                                                                    //')
 print('//                                                                    //')
 print('//       Website - https://chaottiic.com                              //')
